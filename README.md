@@ -1,2 +1,2 @@
-# Descri-o
+# Descricao
 Descrição do projeto
